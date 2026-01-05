@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MiniMaxSum/MiniMaxSum.csproj" Id="b6445725-f820-421e-89ee-0e869e2f51e9" />
   <Project Path="PlusMinus/PlusMinus.csproj" />
 </Solution>

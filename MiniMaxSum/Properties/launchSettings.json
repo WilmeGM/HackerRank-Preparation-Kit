@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MiniMaxSum": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
