@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="BreakingTheRecords/BreakingTheRecords.csproj" Id="c43b1201-75b2-434d-95ca-d39645e7cb3b" />
-  <Project Path="MiniMaxSum/MiniMaxSum.csproj" Id="b6445725-f820-421e-89ee-0e869e2f51e9" />
-  <Project Path="PlusMinus/PlusMinus.csproj" />
-  <Project Path="TimeConversion/TimeConversion.csproj" Id="1ceaa5c4-52d1-4898-b9d1-3bacbac52b3b" />
+  <Project Path="src/Week1/BreakingTheRecords/BreakingTheRecords.csproj" Id="c43b1201-75b2-434d-95ca-d39645e7cb3b" />
+  <Project Path="src/Week1/MiniMaxSum/MiniMaxSum.csproj" Id="b6445725-f820-421e-89ee-0e869e2f51e9" />
+  <Project Path="src/Week1/PlusMinus/PlusMinus.csproj" />
+  <Project Path="src/Week1/TimeConversion/TimeConversion.csproj" Id="1ceaa5c4-52d1-4898-b9d1-3bacbac52b3b" />
 </Solution>
